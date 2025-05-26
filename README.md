@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">👩‍🏫 User-Friendly Interface – Easy to use.</p>
+<p align="left">🔍 Search icon to search the food Categories.<br><br>🎸 Chord Generator – Get accurate chords for any selected scale.<br><br>🔄 Chord Transposer – Transpose song chords to any desired key.<br><br>🪕 Tanpura Tool – Built-in drone sound for Indian classical practice.<br><br>🎹 Chord Library – Visual diagrams for guitar and piano chords.<br><br>📚 Music Theory Guide – Learn guitar, piano, and harmonium basics.<br><br>👩‍🏫 User-Friendly Interface – Easy to use for learners and teachers alike.<br><br>🎶 No Cost – 100% free with all features available offline.</p>
 
 ###
 
