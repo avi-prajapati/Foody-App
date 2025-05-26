@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">⭐Note:</p>
+<p align="left">⭐Note:The purpose of Foody app is to show the recepi of the food.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📲</p>
+<p align="left">📲Easy to use Application build with Flutter and APIs Link, offering multiple Features.</p>
 
 ###
 
