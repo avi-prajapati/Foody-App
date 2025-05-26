@@ -21,7 +21,7 @@
 
 
 <kbd>
-  <img  src="https://github.com/avi-prajapati/Foody-App/blob/master/screenshot/1.jpeg" width=32% height=30%/>
+  <img  src="https://github.com/avi-prajapati/Foody-App/blob/master/screenshot/1.jpeg" width=30% height=30%/>
   <img  src="https://github.com/avi-prajapati/Foody-App/blob/master/screenshot/2.jpeg" width=30% height=30%/>
   <img  src="https://github.com/avi-prajapati/Foody-App/blob/master/screenshot/3.jpeg" width=30% height=30%/>
   <img  src="https://github.com/avi-prajapati/Foody-App/blob/master/screenshot/4.jpeg" width=30% height=30%/>
