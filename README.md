@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">🔍 Search icon to search the food Categories.<br><br>🎸 Chord Generator – Get accurate chords for any selected scale.<br><br>🔄 Chord Transposer – Transpose song chords to any desired key.<br><br>🪕 Tanpura Tool – Built-in drone sound for Indian classical practice.<br><br>🎹 Chord Library – Visual diagrams for guitar and piano chords.<br><br>📚 Music Theory Guide – Learn guitar, piano, and harmonium basics.<br><br>👩‍🏫 User-Friendly Interface – Easy to use for learners and teachers alike.<br><br>🎶 No Cost – 100% free with all features available offline.</p>
+<p align="left">🔍 Search icon to search the food Categories.<br><br>😋 Random Button to show the random Recipe.<br><br>🤝 User can share the Recipe on Social Media like WhatsApp, Insta etc.<br><br>🍱 Multiple food Categories are shown in Home Screen.<br><br>🍦User Selected Categories show the multiple dish of that Categories.<br><br>📱 Simple and Amazing UI.<br><br>👩‍🏫 User-Friendly Interface – Easy to use.<br></p>
 
 ###
 
@@ -52,6 +52,6 @@
 
 ###
 
-<p align="left">🔸<br>🔸<br>🔸<br>🔸<br>🔸</p>
+<p align="left">🔸Food Recipe App<br><br>🔸Food Categories App<br><br>🔸WhatsApp Recipe Share<br><br>🔸Free App<br><br>🔸Amazing Interface.</p>
 
 ###
